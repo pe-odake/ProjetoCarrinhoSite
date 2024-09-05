@@ -1,0 +1,17 @@
+{
+    "produtos": [
+        {
+            "nome": "Televisão",
+            "preco": 4500,
+            "categoria": 
+        },
+        {
+            "nome": "Sofá",
+            "preco": 2300
+        },
+        {
+            "nome": "Livro",
+            "preco": 50,
+        },
+    ]
+}
